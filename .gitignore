@@ -161,7 +161,10 @@ dmypy.json
 # SageMath parsed files
 
 # Environments
-
+node_modules
+.vscode
+.idea
+venv
 # Spyder project settings
 
 # Rope project settings
@@ -174,6 +177,8 @@ dmypy.json
 
 ### Python Patch ###
 .venv/
+venv/
+/venv/
 
 ### Python.VirtualEnv Stack ###
 # Virtualenv
